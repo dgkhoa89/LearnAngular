@@ -9,6 +9,30 @@ npm install -g @angular/cli
 
 bs3- 	--> for bootstrap 3
 
+
+note -v
+npm -v
+npm install -g typescript	--> install typescrypt 
+npm install -g @angular/cli	--> install angular commandline interface
+
+ng new app-name			--> create new app
+ng serve			--> start app
+ng serve --o			--> start app and open browser
+ng serve --port 3000		--> start app port 3000
+	localhost:3000
+
+IDE: 
+
+ng g c component_name		--> create component
+
+b4- 				--> add bootstrap to index.html file
+
+------------------------------QUESTION-----------------------------------------------
+do i need to install bootstrap for each angular project?
+
+
+data binding
+
 ------------data binding---------------
 ng g c componentname	--> create new component
 
